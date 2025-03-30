@@ -1,0 +1,40 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    padding: 20px;
+  }
+  
+  .resume-builder-container {
+    width: 50%;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  }
+  
+  input, textarea {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  button {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .resume-preview {
+    margin-top: 20px;
+    padding: 20px;
+    color: white;
+    border-radius: 8px;
+    min-height: 100px;
+  }
+  
